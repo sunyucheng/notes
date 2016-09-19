@@ -8,5 +8,8 @@
 ![](_}33QPY7]P({K~J6R5ET6BNW.jpg)
 然后打开deepin-boot-maker这个软件，选择U盘，和之前下载好的Ubuntu并点击格式化U盘，再点击开始并等待。
 
+
+
+
 !
 
